@@ -1,2 +1,0 @@
-# supergulp
-Study for Gulp
